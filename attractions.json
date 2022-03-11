@@ -7,6 +7,38 @@
             "Description" : "Largest of Egyptian pyramids in a complex also including temples & other Ancient artifacts.",
             "Category" : "Ancient",
             "Image" : "https://lh5.googleusercontent.com/p/AF1QipNFfGpnt9hvD3v5EvakRWqJwZBzcjSxdMkhzufA=w408-h272-k-no"
+        },
+        {
+            "Attraction" : "Karnak Temple",
+            "Latitude" : "25.718692",
+            "Longitude" : "32.657165",
+            "Description" : "The Karnak Temple Complex, commonly known as Karnak.",
+            "Category" : "Ancient",
+            "Image" : "https://media.istockphoto.com/photos/columns-of-the-great-temple-of-amun-karnak-luxor-egypt-picture-id1326052962?b=1&k=20&m=1326052962&s=170667a&w=0&h=-yyX_V3cw5FAPXt5OorXu9frl-I98TBbVYjvAr6DTKc="
+        },
+        {
+            "Attraction" : "Valley of Kings",
+            "Latitude" : "25.739984",
+            "Longitude" : "32.601718",
+            "Description" : "Archaeological site on two branches of a wadi valley with 63 tombs and burial chambers.",
+            "Category" : "Ancient",
+            "Image" : "https://www.tripsavvy.com/thmb/AZ3K1l25HViktAncgZ_-jjJ1Cw8=/395x0/filters:no_upscale():max_bytes(150000):strip_icc()/morning-time-at-valley-of-the-kings-in-luxor-city--egypt-951657442-5c1e008fc9e77c00011a4843.jpg"
+        },
+        {
+            "Attraction" : "Abu Simbel",
+            "Latitude" : "22.337049",
+            "Longitude" : "31.626019",
+            "Description" : "Huge 3,000-year-old monument to Ramesses II, one of two temples relocated when Aswan dam was built.",
+            "Category" : "Ancient",
+            "Image" : "https://s27363.pcdn.co/wp-content/uploads/2020/01/How-to-Visit-Abu-Simbel.jpg.optimal.jpg"
+        },
+        {
+            "Attraction" : "Pyramid of Djoser",
+            "Latitude" : "29.871467",
+            "Longitude" : "31.216849",
+            "Description" : "The world's 1st large-scale cut stone structure, forming the centerpiece of a huge mortuary complex.",
+            "Category" : "Ancient",
+            "Image" : "https://www.worldhistory.org/img/r/p/500x600/4548.jpg.webp?v=1646779028"
         }
     ]
 }
