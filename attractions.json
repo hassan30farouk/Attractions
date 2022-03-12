@@ -39,6 +39,217 @@
             "Description" : "The world's 1st large-scale cut stone structure, forming the centerpiece of a huge mortuary complex.",
             "Category" : "Ancient",
             "Image" : "https://www.worldhistory.org/img/r/p/500x600/4548.jpg.webp?v=1646779028"
+        },
+        {
+            "Attraction" : "Saint Catherine's Monastery ",
+            "Latitude" : "28.555812",
+            "Longitude" : "33.976182",
+            "Description" : "Greek Orthodox monastery with a library holding ancient manuscripts, a church with icons & a garden..",
+            "Category" : "Ancient",
+            "Image" : "https://egymonuments.gov.eg/media/2638/katharinenkloster.jpg?anchor=center&mode=crop&width=645&height=423&rnd=132670119380000000"
+        },
+        {
+            "Attraction" : "Cairo Tower ",
+            "Latitude" : "30.046299",
+            "Longitude" : "31.224253",
+            "Description" : "Tower inspired by lotus flowers, made up of 8 million mosaic lozenges, with a revolving restaurant.",
+            "Category" : "national",
+            "Image" : "https://media.istockphoto.com/photos/cairo-tower-picture-id186829012?b=1&k=20&m=186829012&s=170667a&w=0&h=9kHSfThyCioWuOMlqBAs1Li-UwsEQ5MATx9fgDBt9mc="
+        },
+        {
+            "Attraction" : "Mortuary Temple of Hatshepsut",
+            "Latitude" : "25.738111",
+            "Longitude" : "32.606574",
+            "Description" : "Iconic, reconstructed New Kingdom mortuary temple beneath the cliffs at Deir el Bahari.",
+            "Category" : "Ancient",
+            "Image" : "https://upload.wikimedia.org/wikipedia/commons/9/94/Hatshetsup-temple-1by7.jpg"
+        },
+        {
+            "Attraction" : "Citadel of Qaitbay ",
+            "Latitude" : "31.213424",
+            "Longitude" : "29.886765",
+            "Description" : "Habor front fortress built by a 15th-century sultan & naval museum with historic battle artifacts.",
+            "Category" : "historical",
+            "Image" : "https://live.staticflickr.com/1928/43531245620_01dbcf96c1_b.jpg"
+        },
+        {
+            "Attraction" : "Philae Temple ",
+            "Latitude" : "24.013335",
+            "Longitude" : "32.876802",
+            "Description" : "Former site of the ancient Temple of Isis, moved from this Nile river island to Agilkia.",
+            "Category" : "Ancient",
+            "Image" : "https://www.planetware.com/photos-large/EGY/egypt-philae-second-pylon.jpg"
+        },
+        {
+            "Attraction" : "Luxor Museum",
+            "Latitude" : "25.708425",
+            "Longitude" : "32.644442",
+            "Description" : "Museum of Ancient Egyptian artifacts, from everyday items to artwork, sculpture & mummies.",
+            "Category" : "national",
+            "Image" : "https://images.squarespace-cdn.com/content/v1/56c13cc00442627a08632989/1589748843269-75TRXGEE5UBOBUH1BRTE/luxormuseum.jpg?format=1000w"
+        },
+        {
+            "Attraction" : "The Hanging Church",
+            "Latitude" : "30.005585",
+            "Longitude" : "31.229752",
+            "Description" : "Coptic Orthodox church with a wooden roof in the shape of Noah's ark, a 5th-century pulpit & icons.",
+            "Category" : "religous",
+            "Image" : "https://img.atlasobscura.com/d9p1SgljTw89uvBRiVWL_6t1vR4kk_C7Pi0k6f7fN_0/rs:fill:580:580:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kNGE1/OWMxNy1hZmU1LTQ0/NTEtYjRlZC1lYmJh/OTQwNDA0OWM2NjVl/YTU3YTFmOGU4NDE5/ZDdfNTE0MjkxOTAy/NF9mMDg2MmMwNzM0/X2IuanBn.jpg"
+        },
+        {
+            "Attraction" : "Dendra Temple Complex",
+            "Latitude" : "26.141966",
+            "Longitude" : "32.669815",
+            "Description" : "Classical Egyptian temple to the goddess of love, Hathor, with a preserved complex & zodiac ceiling.",
+            "Category" : "ancient",
+            "Image" : "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/2d/0d/9d.jpg"
+        },
+        {
+            "Attraction" : "Museum Of Islamic Art",
+            "Latitude" : "30.044692",
+            "Longitude" : "31.25285",
+            "Description" : "Huge Islamic art museum with over 100,000 exhibits spanning history in a grand restored building.",
+            "Category" : "national",
+            "Image" : "https://egyptopia.com/shared/images/z/big/z_themevlevimuseumincairo-_3711.jpg"
+        },
+        {
+            "Attraction" : "Abdeen Palace Museum",
+            "Latitude" : "30.042418",
+            "Longitude" : "31.248211",
+            "Description" : "Ornate former palace with 500 rooms, home to museums containing silver, weapons & royal artifacts.",
+            "Category" : "national",
+            "Image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvDX-Hxx6fdQBweBCIvt0f21b76yTlyNSGjDIaFrRPOWoEIDbI_6A0TPvbEhCF0-7-pck&usqp=CAU"
+        },
+        {
+            "Attraction" : "Baron Empain Palace",
+            "Latitude" : "30.086763",
+            "Longitude" : "31.329968",
+            "Description" : "Stately & abandoned Indian Hindu temple featuring a carved wooden spiral staircase & gardens.",
+            "Category" : "historical",
+            "Image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/The_exterior_of_the_Baron_Empain_palace.jpg/1200px-The_exterior_of_the_Baron_Empain_palace.jpg"
+        },
+        {
+            "Attraction" : "Bibliotheca Alexandrina ",
+            "Latitude" : "31.209348",
+            "Longitude" : "29.909019",
+            "Description" : "8 million books in this vast modernist library with curving facade, plus 4 museums & a planetarium.",
+            "Category" : "historical",
+            "Image" : "https://momaa.org/wp-content/uploads/2019/10/Bibliotheca-Alexandrina-1-1024x568.png"
+        },
+        {
+            "Attraction" : "Salah Al-Din Al-Ayoubi Castle",
+            "Latitude" : "30.028875",
+            "Longitude" : "31.259333",
+            "Description" : "Imposing fortress & wall built by Saladin in the 12th century as protection against the Crusaders.",
+            "Category" : "historical",
+            "Image" : "https://see.news/wp-content/uploads/2018/10/day-tour-to-egyptian-museum-citadel-salah-el-din-and-old-cairo-in-cairo-460416.jpg"
+        },
+        {
+            "Attraction" : "Ancient Roman Theatre",
+            "Latitude" : "31.195077",
+            "Longitude" : "29.904165",
+            "Description" : "Archaeological site featuring the remains of an ancient Roman theater, baths & a villa with mosaics.",
+            "Category" : "ancient",
+            "Image" : "https://www.traveltoegypt.net/front/images/blog/The-Roman-amphitheatre.jpg"
+        },
+        {
+            "Attraction" : "Cairo Opera House",
+            "Latitude" : "30.042176",
+            "Longitude" : "31.223411",
+            "Description" : "Imposing 1988 venue focusing on Arab dance, classical music & opera, as well as international works.",
+            "Category" : "historical",
+            "Image" : "https://amayei.nyc3.digitaloceanspaces.com/2020/11/shutterstock_1274312821.jpg"
+        },
+           {
+            "Attraction" : "Cairo Opera House",
+            "Latitude" : "30.042176",
+            "Longitude" : "31.223411",
+            "Description" : "  ",
+            "Category" : "historical",
+            "Image" : "https://amayei.nyc3.digitaloceanspaces.com/2020/11/shutterstock_1274312821.jpg"
+        },
+        {
+            "Attraction" : "Great Sphinx of Giza",
+            "Latitude" : "29.974907",
+            "Longitude" : "31.137573",
+            "Description" : "Iconic stone monument that is more than 4,500 years old & has a human face on a lion's body.",
+            "Category" : "ancient",
+            "Image" : "https://www.egypttoday.com/siteimages/Larg/202102100529492949.jpg"
+        },
+        {
+            "Attraction" : "Wadi El Rayan",
+            "Latitude" : "29.180473",
+            "Longitude" : "30.398186",
+            "Description" : "Vast area of lakes, falls, sulphur springs & sand dunes with wildlife including endangered species.",
+            "Category" : "national",
+            "Image" : "https://i0.wp.com/fayoumegypt.com/wp-content/uploads/2013/12/40818_440214779398076_17535004_n.jpg?fit=960%2C573&ssl=1"
+        },
+        {
+            "Attraction" : "Mosque of Ibn Tulun",
+            "Latitude" : "30.028928",
+            "Longitude" : "31.249316",
+            "Description" : "Sprawling mosque built in 879 A.D., with courtyard lined by stucco arcades & elegant spiral minaret.",
+            "Category" : "religous",
+            "Image" : "https://egymonuments.gov.eg//media/1162/%D9%82%D8%A8%D8%A9-%D8%A7%D9%84%D8%B6%D8%B1%D9%8A%D8%AD-%D9%88%D9%8A%D8%B8%D8%B1-%D8%AE%D9%84%D9%81%D8%A7-%D8%AC%D8%A7%D9%85%D8%B9-%D8%B7%D9%88%D9%84%D9%88%D9%86.jpg?center=0.39473684210526316,0.754601226993865&mode=crop&width=1200&height=630&rnd=132296384020000000"
+        },
+        {
+            "Attraction" : "Colossi of Memnon",
+            "Latitude" : "25.720636",
+            "Longitude" : "32.610241",
+            "Description" : "Pair of huge Egyptian statue figures, the only remains of the ancient temple of King Amenhotep III.",
+            "Category" : "historical",
+            "Image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Colossi_of_Memnon_May_2015_2.JPG/1200px-Colossi_of_Memnon_May_2015_2.JPG"
+        },
+        {
+            "Attraction" : "Mortuary Temple of Amenhotep III",
+            "Latitude" : "25.721148",
+            "Longitude" : "32.608932",
+            "Description" : "Temple ruins & archaeological site constructed for a powerful pharaoh from Dynasty XVIII.",
+            "Category" : "ancient",
+            "Image" : "https://ask-aladdin.com/images/temple-of-amenhotep-iii-ph1.jpg"
+        },
+        {
+            "Attraction" : "The Temple of Horus",
+            "Latitude" : "24.978113",
+            "Longitude" : "32.873446",
+            "Description" : "Well-preserved Ptolemaic temple with bas relief sculptures, a granite shrine & a Horus statue.",
+            "Category" : "ancient",
+            "Image" : "https://lp-cms-production.imgix.net/2019-06/180f94a63685653b30679b0d7256867b-temple-of-horus.jpg"
+        },
+        {
+            "Attraction" : "Bent Pyramid",
+            "Latitude" : "29.790123",
+            "Longitude" : "31.208713",
+            "Description" : "Pyramid built for the pharaoh Sneferu, known for its irregular shape, with access to inner chambers.",
+            "Category" : "ancient",
+            "Image" : "https://i.guim.co.uk/img/media/d8e4679bd8cd02a7a14d26140b0d1c8802d08186/400_608_3676_2207/master/3676.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=b27a4b0a21b6ddebc8466f175170f7ec"
+        },
+        {
+            "Attraction" : "Temple of Kom Ombo",
+            "Latitude" : "24.452109",
+            "Longitude" : "32.928299",
+            "Description" : "Riverside Ptolemaic-era temple, known for its unique double structure & mummified sacred crocodiles.",
+            "Category" : "ancient",
+            "Image" : "https://www.planetware.com/photos-large/EGY/egypt-kom-ombo-temple.jpg"
+        },
+        {
+            "Attraction" : "Mosque of Muhammed Ali",
+            "Latitude" : "30.029201",
+            "Longitude" : "31.259567",
+            "Description" : "Grand, 19th-century mosque in Cairo's iconic Citadel, lavishly decorated with Islamic motifs.",
+            "Category" : "religous",
+            "Image" : "https://upload.wikimedia.org/wikipedia/commons/4/49/%D8%AC%D8%A7%D9%85%D8%B9_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%8A.JPG"
+        },
+        {
+            "Attraction" : "Museum of Modern Egyptian Art",
+            "Latitude" : "30.043779",
+            "Longitude" : "31.224797",
+            "Description" : "the Egyptian museum of modern egyptian art",
+            "Category" : "national",
+            "Image" : "https://english.ahram.org.eg/Media/News/2015/10/5/2015-635796490967473338-747.jpg"
         }
+        
+        
+       
     ]
 }
