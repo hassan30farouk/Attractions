@@ -255,7 +255,17 @@
             "Description" : "This ornately decorated home was built between 1899 & 1929 in European & Islamic styles.",
             "Category" : "Historical",
             "Image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/GD-EG-Caire-AlManyal021.JPG/250px-GD-EG-Caire-AlManyal021.JPG"
-        }
+        },
+        {
+            "Attraction" : "Masjid Al-Aqmar",
+            "Latitude" : "30.051732",
+            "Longitude" : "31.261874",
+            "Description" : "Grand city mosque, built in the 12th century, with ornate carvings & inscriptions, plus courtyards.",
+            "Category" : "Religous",
+            "Image" : "https://www.amwagtours.com/wp-content/uploads/2020/08/Al-Aqmar-Mosque.jpg"
+        
+        {
+       
         
         
        
